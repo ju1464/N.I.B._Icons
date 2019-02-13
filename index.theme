@@ -6,7 +6,14 @@ Inherits=Adwaita,breeze,hicolor
 Example=directory-x-normal
 
 #Directory list
-Directories=places/scalable,mimes/scalable,
+Directories=apps/scalable,places/scalable,mimes/scalable,
+
+[apps/scalable]
+Size=48
+Context=Applications
+Type=Scalable
+Minsize=8
+Maxsize=512
 
 [places/scalable]
 Size=16
