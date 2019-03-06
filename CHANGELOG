@@ -9,4 +9,12 @@ dayfolder, deepin-boot-maker, deepin-calendar, etcher-electron, evolution-calend
 konsolekalendar, maya, mintstick, multibootusb, multisystem-liveusb, multisystem-vbox, multisystem, office-calendar, office-date, orage, orage_globaltime, org.gnome.Calendar, 
 org.gnome.Cheese, org.gnome.MultiWriter, org.gnome.calendar, org.gnome.cheese, org.kde.contrib.dayofmonth, org.kde.contrib.dayofweek, org.kde.plasma.calendar, org.kde.plasma.date, 
 org.kde.plasma.eventcalendar, osmo, preferences-calendar-and-tasks, rosa-imagewriter, stock_calendar, system-config-date, time-admin, tuxboot, unetbootin, unity-datetime-panel, 
-usb-creator-gtk, usb-creator-kde, usb-creator, webcamoid, x-office-calendar, xfcalendar, xfce-mount, ximian-evolution-calendar, 
+usb-creator-gtk, usb-creator-kde, usb-creator, webcamoid, x-office-calendar, xfcalendar, xfce-mount, ximian-evolution-calendar, activity-log-manager, atril, bumblebee, 
+clipit-trayicon, com.bxabi.bumblebee-indicator, deja-dup, diodon, evince, exaile, geany, glipper, glippy, gnome-logs, gnome-system-log, gpaste, ignuit, indicator-privacy, 
+klipper, korg-journal, lmms, logview, logviewer, mate-system-log, nvidia-310-settings, nvidia-current-settings, nvidia-current-updates-settings, nvidia-drivers-settings, 
+nvidia-settings, nvidia-x-server-setting, nvidia-x-server-settings, nvidia, org.gnome.DejaDup, org.gnome.Evince, org.kde.plasma.clipboard, org.kde.plasma.mediacontroller, 
+org.kde.plasma.mediacontrollercompact, org.kde.plasma.multimediacontrols, org.mozilla.Thunderbird, parcellite, plv, preferences-system-privacy, python, python2.5, python2.6, 
+python3.0, qlipper, system-config-rootpassword, system-config-securitylevel, thunderbird-icon, thunderbird-mozilla-build, thunderbird, utilities-log-viewer, xfce4-clipman-plugin, 
+yast-checkmedia, 
+
+
