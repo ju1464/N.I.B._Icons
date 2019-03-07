@@ -15,6 +15,11 @@ klipper, korg-journal, lmms, logview, logviewer, mate-system-log, nvidia-310-set
 nvidia-settings, nvidia-x-server-setting, nvidia-x-server-settings, nvidia, org.gnome.DejaDup, org.gnome.Evince, org.kde.plasma.clipboard, org.kde.plasma.mediacontroller, 
 org.kde.plasma.mediacontrollercompact, org.kde.plasma.multimediacontrols, org.mozilla.Thunderbird, parcellite, plv, preferences-system-privacy, python, python2.5, python2.6, 
 python3.0, qlipper, system-config-rootpassword, system-config-securitylevel, thunderbird-icon, thunderbird-mozilla-build, thunderbird, utilities-log-viewer, xfce4-clipman-plugin, 
-yast-checkmedia, 
+yast-checkmedia, applications-system, MidnightCommander, compton-conf, compton, gnome-ccwindowmanager, gnome-window-manager, gnome-windows, gnome-wm, kcmkwm, kwin, maxthon-browser, 
+mc, org.remmina.Remmina, preferences-system-windows, remmina, xfwm4, 1password, badge-small, gnome-encfs-manager, keepass, keepass2, keepassx, keepassx2, keepassxc, 
+keyring-manager, mintsources-keys, org.keepassxc.KeePassXC, password, password-manager, passwords, revelation, seahorse, seahorse-preferences, stock_keyring, gnome-aisleriot, 
+gnome-freecell, gnome-hearts, kpat, kpatience, lskat, org.gnome.Aisleriot, 
+
+
 
 
