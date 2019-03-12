@@ -1,24 +1,16 @@
 Added:
 
-akregator, feedreader, gnome-news, internet-feed-reader, internet-news-reader, kblogger, liferea, news-feed, org.communia.ttrssPocket, org.gnome.FeedReader, pan, quiterss, 
-RSS_feeds, rssguard, rss_indicator, rssnow, rssowl, stock_news, tor, tor-browser, torbrowser, blender, Blender, org.blender.Blender, synaptic, AdobeFlash, adobe-flashplayer, 
-adobeflashplugin, flash, flashplayer, flash-player-properties, flashplayerproperties, chrome-boeajhmfdjldchidhphikilcgdacljfm-Default, chrome-dihbebhmaoagdpbcnfedokpfkkgmmpgc-Default, 
-facebook, facebook-facebook.com, facebookresource, goa-account-facebook, im-facebook, unity-webapps-facebook, altyo, kitty, urxvt, urxvt_48x48, utilities-x-terminal, xterm, 
-xterm-color_48x48, yakuake, ardour, ardour5, calendar, california, camorama, cheese, chrome-ejjicmeblgpmajnghnpcppodonldlgfn-Default, config-date, cs-date-time, date, 
-dayfolder, deepin-boot-maker, deepin-calendar, etcher-electron, evolution-calendar, gnome-calendar, gnome-multi-writer, google-calendar, imagewriter, kamerka, kamoso, 
-konsolekalendar, maya, mintstick, multibootusb, multisystem-liveusb, multisystem-vbox, multisystem, office-calendar, office-date, orage, orage_globaltime, org.gnome.Calendar, 
-org.gnome.Cheese, org.gnome.MultiWriter, org.gnome.calendar, org.gnome.cheese, org.kde.contrib.dayofmonth, org.kde.contrib.dayofweek, org.kde.plasma.calendar, org.kde.plasma.date, 
-org.kde.plasma.eventcalendar, osmo, preferences-calendar-and-tasks, rosa-imagewriter, stock_calendar, system-config-date, time-admin, tuxboot, unetbootin, unity-datetime-panel, 
-usb-creator-gtk, usb-creator-kde, usb-creator, webcamoid, x-office-calendar, xfcalendar, xfce-mount, ximian-evolution-calendar, activity-log-manager, atril, bumblebee, 
-clipit-trayicon, com.bxabi.bumblebee-indicator, deja-dup, diodon, evince, exaile, geany, glipper, glippy, gnome-logs, gnome-system-log, gpaste, ignuit, indicator-privacy, 
-klipper, korg-journal, lmms, logview, logviewer, mate-system-log, nvidia-310-settings, nvidia-current-settings, nvidia-current-updates-settings, nvidia-drivers-settings, 
-nvidia-settings, nvidia-x-server-setting, nvidia-x-server-settings, nvidia, org.gnome.DejaDup, org.gnome.Evince, org.kde.plasma.clipboard, org.kde.plasma.mediacontroller, 
-org.kde.plasma.mediacontrollercompact, org.kde.plasma.multimediacontrols, org.mozilla.Thunderbird, parcellite, plv, preferences-system-privacy, python, python2.5, python2.6, 
-python3.0, qlipper, system-config-rootpassword, system-config-securitylevel, thunderbird-icon, thunderbird-mozilla-build, thunderbird, utilities-log-viewer, xfce4-clipman-plugin, 
-yast-checkmedia, applications-system, MidnightCommander, compton-conf, compton, gnome-ccwindowmanager, gnome-window-manager, gnome-windows, gnome-wm, kcmkwm, kwin, maxthon-browser, 
-mc, org.remmina.Remmina, preferences-system-windows, remmina, xfwm4, 1password, badge-small, gnome-encfs-manager, keepass, keepass2, keepassx, keepassx2, keepassxc, 
-keyring-manager, mintsources-keys, org.keepassxc.KeePassXC, password, password-manager, passwords, revelation, seahorse, seahorse-preferences, stock_keyring, gnome-aisleriot, 
-gnome-freecell, gnome-hearts, kpat, kpatience, lskat, org.gnome.Aisleriot, 
+com.transmissionbt.Transmission, io.github.TransmissionRemoteGtk, transgui, transgui-2, transmission, transmission-gtk, transmission-qt, transmission-remote-gtk, kscreensaver, 
+plugin-screensaver, preferences-desktop-screensaver, screensaver, xscreensaver, deepin-image-viewer, eog, eom, geeqie, gpicview, gthumb, gwenview, image-viewer, lximage, 
+lximage-qt, mirage, multimedia-photo-viewer, org.gnome.eog, org.kde.plasma.mediaframe, org.photoqt.PhotoQt, photoqt, pix, ristretto, xviewer, gdm-xnest, gnome-remote-desktop, krfb, preferences-desktop-remote-desktop, 
+tightvnc,tsclient, vinagre, cs-display, cs-screen, disper, display-capplet, gnome-display-properties, grandr, gsd-xrandr, lxrandr, mate-preferences-desktop-display, msd-xrandr, 
+preferences-desktop-display, resapplet, system-config-display, unity-display-panel, xfce4-splash, XrendrMixer, background, cs-backgrounds, gnome-settings-background, 
+nitrogen, org.kde.plasma.frame, plugin-wallpaper, preferences-desktop-wallpaper, preferences-wallpaper, wallpaper, xfce4-backdrop, do, gnome-do, 
+
+
+Update: 
+
+firefox-developer-edition, firefox-developer-icon, firefox, 
 
 
 
