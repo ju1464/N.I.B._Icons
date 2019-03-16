@@ -1,3 +1,5 @@
+1419 ICONS
+
 Added:
 
 com.transmissionbt.Transmission, io.github.TransmissionRemoteGtk, transgui, transgui-2, transmission, transmission-gtk, transmission-qt, transmission-remote-gtk, kscreensaver, 
@@ -17,11 +19,21 @@ script-error, system-error, tools-report-bug, amarok, amarok2, amarok-icon, empa
 stock_bookmark, user-bookmarks, mkv-gui, mkvinfo, mkvmerge, mkvmergeGUI, mkvtoolnix-gui, alacarte, drakmenustyle, gnome-gmenu, menu-editor, menulibre, mozo, xfce4-menueditor, 
 gnome-device-manager, harddrake, hardinfo, hwbrowser, hwinfo, mate-sensors-applet, jockey, jockey-kde, jockey-proprietary, chrome-kbpgddbgniojgndnhlkjbkpknjhppkbk-Default, 
 google-hangout, byzanz, com.github.artemanufrij.screencast, deepin-screen-recorder, gtk-recordmydesktop, istanbul, kazam, record-desktop, recordmydesktop, simplescreenrecorder, 
-vokoscreen, xvidcap, mega, megasync, 
+vokoscreen, xvidcap, mega, megasync, krusader_user, octopi, ubiquity-kde, appimagekit-kitty, com.adobe.Flash-Player-Projector, firefox3, firefox-3.0, firefox-3.5, firefox-4.0, 
+firefox-beta, firefox-beta-bin, firefox-default, firefox-esr, firefox-gtk3, firefox-icon, firefox-mozilla-build, firefox-original, minitube, mozilla-firefox, nuvolaplayer3_youtube, 
+org.kde.kontact, org.kde.plasmatube, org.mozilla.Firefox, inkscape-logo, com.github.rssguard, deepin-font-installer, cs-sound, phonon-gstreamer, unity-sound-panel, 
+xfce4-sound, app.rednotebook.RedNotebook, com.github.artemanufrij.imageburner, anaconda, atunes, calamares, chmsee-icon, cs-sources, debian-installer-launcher, deepin-installer, 
+deepin-installer-oem, kchmviewer, mintsources-foreign, org.kde.distrowatcher, photolayoutseditor, system-os-installer, ubiquity, xchm-48, yast-live-install, krunner, 
+xfpm-suspend, org.kde.plasma.lock_logout, org.kde.plasma.systempanel, org.kde.shutdownOrSwitch, com.github.lainsce.notejot, deepin-note, 7596_iexplore.0, cqcb.plasma.webslice, 
+FB4C_iexplore.0, gnome-internet, gnome-web, konqueror, org.gnome.Eolie, org.kde.plasma.webbrowser, preferences-web-browser-identification, preferences-web-browser-shortcuts, 
+redhat-web-browser, rekonq, webbrowser-app, yast-inetd, org.gnome.powerstats, org.mozilla.FirefoxDevEdition, deepin-editor, io.liri.Text, gnome-panel-hibernate, myrulib, 
+rednotebook, yacreader-library, cs-themes, kmix, mynotes, nepomuk, pkgbrowser, plasma-search, searchmonkey, yast-sound, com.github.zren.presentwindows, cs-windows, metacity, 
+org.kde.plasma.windowlist, preferences-system-windows-actions, preferences-tweaks-shadows, window-duplicate, xfce4-display, krusader_root, application-x-plasma, image-vnd.adobe.photoshop, 
+applications-development, applications-utilities, applications-education, applications-graphics.
 
 Update: 
 
-firefox-developer-edition, firefox-developer-icon, firefox, 
+firefox-developer-edition, firefox-developer-icon, firefox, applications-system.
 
 
 
