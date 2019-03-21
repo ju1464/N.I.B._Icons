@@ -6,7 +6,9 @@ goldendict, org.gnome.Dictionary, palaura, xfce4-dict, cs-notifications, gnome-n
 org.kde.plasma.notifications, preferences-desktop-notification, preferences-desktop-notification-bell, preferences-desktop-notifications, preferences-system-notifications, 
 xfce4-notifyd, gnome-subtitles, qnapi, qnapi-48, subdownloader, checkbox, com.github.zren.todolist, evolution-tasklist, evolution-tasks, gnome-todo, korg-todo, org.gnome.todo, 
 org.gnome.Todo, stock_task, stock_todo, code, code-oss, com.visualstudio.code.oss, com.visualstudio.code, visual-studio-code, code-insiders,visual-studio-code-insiders, 
-gnome-inhibit-applet, mate-inhibit-applet, 
+gnome-inhibit-applet, mate-inhibit-applet, editcut, gtk-cut, stock_cut, gtk-find-and-replace, stock_search-and-replace, filefind, find, gtk-find, preview-file, stock_search, 
+zoom-fit, gohome, gtk-home, kfm_home, redhat-home, stock_home, document-edit, stock_edit, gnome-run, gtk-execute, edit-find, gtk-search, kfind, search, gtk-zoom-fit, 
+stock_zoom-page, viewmagfit, edit-cut, edit-find-replace, go-home, gtk-edit, system-run, system-search, granatier, gnome-mines, kmines, 
 
 Update: 
 
