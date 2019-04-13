@@ -22,7 +22,7 @@ PanelSizes=16,22,24,32,48,64
 DialogDefault=48
 DialogSizes=16,22,24,32,48,64
 
-Directories=actions/scalable,apps/scalable,categories/scalable,mimetypes/scalable,places/scalable
+Directories=actions/scalable,apps/scalable,categories/scalable,devices/scalable,mimetypes/scalable,places/scalable
 
 [actions/scalable]
 Context=Actions
@@ -40,6 +40,13 @@ Type=Scalable
 
 [categories/scalable]
 Context=Categories
+Size=512
+MinSize=1
+MaxSize=512
+Type=Scalable
+
+[devices/scalable]
+Context=Devices
 Size=512
 MinSize=1
 MaxSize=512
