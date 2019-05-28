@@ -26,9 +26,9 @@ Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symb
 
 [actions/scalable]
 Context=Actions
-Size=24
+Size=512
 MinSize=1
-MaxSize=24
+MaxSize=512
 Type=Scalable
 
 [actions/symbolic]
