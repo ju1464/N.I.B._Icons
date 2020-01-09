@@ -1,9 +1,9 @@
 [Icon Theme]
 Name=N.I.B.
-Comment=Dark icons with vivid colors.
-Comment[es]=Iconos oscuros con colores vivos.
+Comment=Dark icons with bright colors.
+Comment[es]=Iconos oscuros con colores brillantes.
 
-Inherits=breeze,elementary,gnome,hicolor
+Inherits=breeze,Adwaita,hicolor
 
 Example=folder
 
